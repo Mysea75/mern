@@ -1,0 +1,26 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Mongo Db, Express, React and Node training",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mysea75/mern.git"
+  },
+  "keywords": [
+    "MERN",
+    "Technology"
+  ],
+  "author": "Ghulam Moinuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mysea75/mern/issues"
+  },
+  "homepage": "https://github.com/Mysea75/mern#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
